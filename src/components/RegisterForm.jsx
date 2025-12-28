@@ -82,7 +82,7 @@ const RegisterForm = () => {
           <input
             type="password"
             name="password"
-            placeholder="********"
+            placeholder="*******"
             required
             className={inputClass}
           />
