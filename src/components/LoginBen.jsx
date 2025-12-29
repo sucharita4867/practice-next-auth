@@ -1,11 +1,8 @@
-import React from 'react';
+"use client";
+import React from "react";
 
 const LoginBen = () => {
-      return (
-            <div>
-                  
-            </div>
-      );
+  return <button className="btn">Login Now</button>;
 };
 
 export default LoginBen;
