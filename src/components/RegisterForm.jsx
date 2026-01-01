@@ -71,7 +71,7 @@ const RegisterForm = () => {
           <input
             type="tel"
             name="contactNo"
-            placeholder="01XXXXXXXXX"
+            placeholder="01XXXXXXXXXX"
             required
             className={inputClass}
           />
